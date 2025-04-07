@@ -4,6 +4,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Workflow\MiaBDurableVsVolatileExecution.Workflow.csproj" />
+    <ProjectReference Include="..\Workflow\MiaBDurableVsNormalExecution.Workflow.csproj" />
   </ItemGroup>
 </Project>

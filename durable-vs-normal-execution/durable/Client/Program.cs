@@ -1,5 +1,5 @@
 // This file is designated to run the Workflow
-using MiaBDurableVsVolatileExecution.Workflow;
+using MiaBDurableVsNormalExecution.Workflow;
 using Microsoft.Extensions.Logging;
 using Temporalio.Client;
 

@@ -1,4 +1,4 @@
-namespace MiaBDurableVsVolatileExecution.Workflow;
+namespace MiaBDurableVsNormalExecution.Workflow;
 
 using Temporalio.Activities;
 
